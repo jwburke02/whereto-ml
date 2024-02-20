@@ -1,0 +1,30 @@
+Images From Model II Included
+
+W-E 22 St, NYC, NY
+    Initial: 40.743363, -73.995950
+    Final: 40.739645, -73.987145
+E 55 St, NYC, NY
+    Initial: 40.757156, -73.964216
+    Final: 40.759559, -73.969921
+W-E 36 St, NYC, NY
+    Initial: 40.753381, -73.992274
+    Final: 40.749121, -73.982184
+W-E 38th St, NYC, NY
+    Initial: 40.755759, -73.994103
+    Final: 40.750415, -73.981430
+Poplar St, Charlotte, NC
+    Initial: 35.227478, -80.847276
+    Final: 35.228826, -80.845278
+South Hill Street, Los Angeles, CA 
+    Initial: 34.047206, -118.253267
+    Final: 34.041775, -118.258317
+Main Street, Los Angeles, CA
+    Initial: 34.033024, -118.263054
+    Final: 34.038947, -118.258255
+
+NOTES:
+    The Model is the Following Classes:
+        1 - Single Space Parking Meter
+        2 - Multi Space Parking Meter
+        3 - 2 Hour Parking  
+        4 - No Parking Between
